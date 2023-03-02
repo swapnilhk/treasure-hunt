@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  width: 90%;
+  background-color: #f4b41a;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 20px;
+  color: #143d59;
+}
+
+h1 {
+  padding-top: 15px;
+}
+
+.image {
+  height: 100vmin;
+  pointer-events: none;
+  border-radius: 5px;
+}
+.password {
+  font-size: 30px;
+  width: 200px;
+  text-align: center;
+  color: #f4b41a;
+  border-style: none;
+  border-radius: 5px;
+  margin: 10px 0px 20px 0px;
+}
+
+.congrats{
+  padding: 0px 0px 10px 0px;
+  font-family: "Brush Script MT', cursive";
+}
